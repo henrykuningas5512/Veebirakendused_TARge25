@@ -36,10 +36,11 @@ function App() {
 
   const username: string = "";
 
-  // const domTitle = document.getElementById("dom-Title");
-  // if (domTitle){
-  //  domTitle.textContent += username === "" ? "Tere külaline!" : username;
-  // }
+  //  selliselt ei ole vaja
+  //const domTitle = document.getElementById("dom-Title");
+  //if (domTitle){
+  // domTitle.textContent += username === "" ? "Tere külaline!" : username;
+  //}
 
   return (
     <>
